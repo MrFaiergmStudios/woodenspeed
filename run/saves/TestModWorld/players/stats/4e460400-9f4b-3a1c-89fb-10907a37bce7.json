@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1,
+      "minecraft:oak_log": 32
+    },
+    "minecraft:mined": {
+      "minecraft:dirt": 1,
+      "minecraft:oak_log": 5
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 3167,
+      "minecraft:time_since_rest": 838,
+      "minecraft:fall_one_cm": 670,
+      "minecraft:walk_one_cm": 1957,
+      "minecraft:total_world_time": 838,
+      "minecraft:fly_one_cm": 5018,
+      "minecraft:walk_on_water_one_cm": 544,
+      "minecraft:play_time": 838,
+      "minecraft:jump": 25,
+      "minecraft:time_since_death": 838
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 6
+    }
+  },
+  "DataVersion": 5023
+}

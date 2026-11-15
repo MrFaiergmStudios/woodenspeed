@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:poplar_log": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 983,
+      "minecraft:time_since_rest": 368,
+      "minecraft:walk_one_cm": 283,
+      "minecraft:total_world_time": 368,
+      "minecraft:fly_one_cm": 2704,
+      "minecraft:play_time": 368,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 368
+    },
+    "minecraft:used": {
+      "minecraft:iron_axe": 2
+    }
+  },
+  "DataVersion": 5023
+}

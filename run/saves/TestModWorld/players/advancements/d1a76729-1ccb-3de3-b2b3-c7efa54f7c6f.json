@@ -1,0 +1,275 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-11-15 15:29:13 +0500",
+      "minecraft:river": "2026-11-15 15:35:53 +0500",
+      "minecraft:plains": "2026-11-15 15:34:45 +0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-11-15 15:34:42 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool_slab": {
+    "criteria": {
+      "has_gray_wool": "2026-11-15 15:34:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool_stairs": {
+    "criteria": {
+      "has_gray_wool": "2026-11-15 15:34:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/poplar_planks": {
+    "criteria": {
+      "has_logs": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/poplar_wood": {
+    "criteria": {
+      "has_log": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2026-11-15 15:30:46 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_stairs": {
+    "criteria": {
+      "has_white_wool": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_spear": {
+    "criteria": {
+      "has_stick": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_log": "2026-11-15 15:30:46 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_shelf": {
+    "criteria": {
+      "has_stripped_birch_log": "2026-11-15 15:30:46 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2026-11-15 15:34:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2026-11-15 15:34:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2026-11-15 15:34:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2026-11-15 15:30:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_axe": "2026-11-15 15:34:10 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_axe": "2026-11-15 15:34:10 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2026-11-15 15:30:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2026-11-15 15:30:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2026-11-15 15:29:12 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}

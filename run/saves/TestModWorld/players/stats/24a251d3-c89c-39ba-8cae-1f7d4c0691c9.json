@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 149,
+      "minecraft:walk_one_cm": 87,
+      "minecraft:total_world_time": 149,
+      "minecraft:play_time": 149,
+      "minecraft:jump": 1,
+      "minecraft:time_since_death": 149
+    },
+    "minecraft:used": {
+      "minecraft:oak_log": 2
+    }
+  },
+  "DataVersion": 5023
+}

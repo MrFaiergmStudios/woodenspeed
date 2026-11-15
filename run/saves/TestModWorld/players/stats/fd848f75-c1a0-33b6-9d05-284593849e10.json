@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone_axe": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 494,
+      "minecraft:time_since_rest": 318,
+      "minecraft:fall_one_cm": 300,
+      "minecraft:walk_one_cm": 801,
+      "minecraft:total_world_time": 318,
+      "minecraft:fly_one_cm": 601,
+      "minecraft:crouch_one_cm": 55,
+      "minecraft:sneak_time": 7,
+      "minecraft:play_time": 318,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 318
+    },
+    "minecraft:mined": {
+      "minecraft:oak_log": 1
+    }
+  },
+  "DataVersion": 5023
+}

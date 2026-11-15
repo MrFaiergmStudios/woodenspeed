@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 348,
+      "minecraft:time_since_rest": 241,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:walk_one_cm": 351,
+      "minecraft:total_world_time": 241,
+      "minecraft:fly_one_cm": 1558,
+      "minecraft:play_time": 241,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 241
+    },
+    "minecraft:mined": {
+      "minecraft:birch_log": 1
+    },
+    "minecraft:used": {
+      "minecraft:wooden_axe": 1
+    }
+  },
+  "DataVersion": 5023
+}

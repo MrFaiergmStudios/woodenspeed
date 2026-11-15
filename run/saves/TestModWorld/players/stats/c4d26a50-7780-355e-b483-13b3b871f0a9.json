@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2115,
+      "minecraft:time_since_rest": 3224,
+      "minecraft:fall_one_cm": 900,
+      "minecraft:walk_one_cm": 9278,
+      "minecraft:total_world_time": 41548,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 17300,
+      "minecraft:crouch_one_cm": 51,
+      "minecraft:sneak_time": 42,
+      "minecraft:play_time": 3224,
+      "minecraft:jump": 18,
+      "minecraft:time_since_death": 3224
+    },
+    "minecraft:picked_up": {
+      "minecraft:shelf_mushroom": 2,
+      "minecraft:stick": 8,
+      "minecraft:poplar_log": 13,
+      "minecraft:poplar_sapling": 17
+    },
+    "minecraft:used": {
+      "minecraft:poplar_sapling": 3,
+      "minecraft:copper_axe": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 2,
+      "minecraft:oak_leaves": 1,
+      "minecraft:poplar_log": 1
+    }
+  },
+  "DataVersion": 5023
+}

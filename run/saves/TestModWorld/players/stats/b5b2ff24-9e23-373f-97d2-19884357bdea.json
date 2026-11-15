@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:leaf_litter": 1,
+      "minecraft:birch_log": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 422,
+      "minecraft:walk_one_cm": 1357,
+      "minecraft:total_world_time": 472,
+      "minecraft:play_time": 422,
+      "minecraft:time_since_death": 422
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 2
+    }
+  },
+  "DataVersion": 5023
+}

@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:shelf_mushroom": 4,
+      "minecraft:spruce_log": 62,
+      "minecraft:spruce_sapling": 24,
+      "minecraft:stick": 20,
+      "minecraft:poplar_log": 32
+    },
+    "minecraft:mined": {
+      "minecraft:spruce_log": 7,
+      "minecraft:poplar_log": 6,
+      "minecraft:spruce_sapling": 1,
+      "minecraft:spruce_leaves": 5
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 13867,
+      "minecraft:time_since_rest": 28128,
+      "minecraft:fall_one_cm": 300,
+      "minecraft:walk_one_cm": 37018,
+      "minecraft:total_world_time": 38474,
+      "minecraft:fly_one_cm": 167412,
+      "minecraft:crouch_one_cm": 110,
+      "minecraft:damage_dealt": 10,
+      "minecraft:sneak_time": 203,
+      "minecraft:play_time": 28128,
+      "minecraft:jump": 190,
+      "minecraft:time_since_death": 28128
+    },
+    "minecraft:used": {
+      "minecraft:iron_axe": 14,
+      "minecraft:wooden_axe": 2,
+      "minecraft:spruce_sapling": 12,
+      "minecraft:poplar_sapling": 46
+    }
+  },
+  "DataVersion": 5023
+}
