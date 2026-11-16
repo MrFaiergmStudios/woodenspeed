@@ -5,11 +5,6 @@
 
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J1kGtWE83nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-
 
 > **Этот мод подходит как и для каких либо майнкрафт сборок так и для простой игры потому что не требует сложной настройки!**
 
@@ -47,9 +42,6 @@
 
 <details>
 <summary>Video</summary>
-
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J1kGtWE83nU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
 
