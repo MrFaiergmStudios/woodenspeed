@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "mrmods",
+	"version": "1.1-Beta",
+	"name": "WoodenSpeed",
+	"description": "This mod adds the ability to chop down trees quickly in Minecraft!",
+	"authors": [
+		"MrFaiergm"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/woodenspeed",
+		"sources": "https://github.com/MrFaiergmStudios/woodenspeed"
+	},
+	"license": "GPL-3.0-only",
+	"icon": "assets/mrmods/icn.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.ExampleMod"
+		],
+		"client": [
+			"com.example.client.ExampleModClient"
+		]
+	},
+	"mixins": [
+		"mrmods.mixins.json",
+		{
+			"config": "mrmods.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
