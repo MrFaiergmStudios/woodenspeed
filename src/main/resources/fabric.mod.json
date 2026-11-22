@@ -17,22 +17,13 @@
 	"entrypoints": {
 		"main": [
 			"com.example.ExampleMod"
-		],
-		"client": [
-			"com.example.client.ExampleModClient"
 		]
+
 	},
-	"mixins": [
-		"mrmods.mixins.json",
-		{
-			"config": "mrmods.client.mixins.json",
-			"environment": "client"
-		}
-	],
 	"depends": {
 		"fabricloader": ">=0.20.1",
-		"minecraft": "~1.19",
+		"minecraft": "~1.18.2",
 		"java": ">=17",
-		"fabric": "*"
+		"fabric-api": "*"
 	}
 }

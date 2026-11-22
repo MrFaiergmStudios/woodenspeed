@@ -102,6 +102,6 @@ public class ExampleMod implements ModInitializer {
 	}
 
 	public static ResourceLocation id(String path) {
-		return ResourceLocation.tryBuild(MOD_ID, path);
+		return new ResourceLocation(MOD_ID, path);
 	}
 }
