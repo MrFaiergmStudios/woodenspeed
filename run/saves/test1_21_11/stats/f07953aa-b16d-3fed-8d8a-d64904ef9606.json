@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 7,
+      "minecraft:oak_log": 2,
+      "minecraft:birch_log": 11
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 1878,
+      "minecraft:walk_one_cm": 3733,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 1878,
+      "minecraft:jump": 26,
+      "minecraft:time_since_death": 1878,
+      "minecraft:sprint_one_cm": 3624,
+      "minecraft:total_world_time": 2206,
+      "minecraft:fly_one_cm": 20396,
+      "minecraft:walk_on_water_one_cm": 2695,
+      "minecraft:crouch_one_cm": 321,
+      "minecraft:sneak_time": 150
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:wooden_axe": 1,
+      "minecraft:birch_planks": 12,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:mined": {
+      "minecraft:birch_log": 5,
+      "minecraft:leaf_litter": 2,
+      "minecraft:birch_leaves": 1
+    },
+    "minecraft:used": {
+      "minecraft:wooden_axe": 3,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4671
+}
