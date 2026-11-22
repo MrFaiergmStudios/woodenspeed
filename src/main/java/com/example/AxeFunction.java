@@ -16,7 +16,6 @@ public class AxeFunction {
 
     int speed1 = 7;
     int speed1ё = 6;
-    int speed2 = 5;
     int speed3 = 5;
     int speed4 = 4;
 
@@ -31,10 +30,6 @@ public class AxeFunction {
 
         if (id.is(Items.STONE_AXE)) {
             return speed1ё;
-        }
-
-        if (id.is(Items.COPPER_AXE)) {
-            return speed2;
         }
 
         if (id.is(Items.IRON_AXE)) {
