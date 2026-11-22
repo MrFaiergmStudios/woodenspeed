@@ -10,6 +10,7 @@ import net.minecraft.resources.ResourceLocation;
 
 import net.minecraft.tags.BlockTags;
 import net.minecraft.tags.ItemTags;
+import net.minecraft.world.item.AxeItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.Level;
@@ -44,9 +45,10 @@ public class ExampleMod implements ModInitializer {
 
 		PlayerBlockBreakEvents.BEFORE.register((world, player, pos, state, blockEntity) -> {
 			ItemStack PlayerHalde = player.getMainHandItem();
+			Item PlayerHandItem = PlayerHalde.getItem();
 
 			worldGl = world;
-			if (!world.isClientSide() && state.is(BlockTags.LOGS) && PlayerHalde.is(ItemTags.AXES)) {
+			if (!world.isClientSide() && state.is(BlockTags.LOGS) && PlayerHandItem instanceof AxeItem) {
 				BlockPos positionBlock = pos;
 				BlockPos positionBlockInUp = positionBlock;
 
