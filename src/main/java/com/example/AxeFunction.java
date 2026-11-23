@@ -1,8 +1,9 @@
 package com.example;
 
+import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import net.minecraft.world.item.Items;
 
 public class AxeFunction {
@@ -12,7 +13,7 @@ public class AxeFunction {
     public static final String MOD_ID = "mrmods";
 
 
-    public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
+    public static final Logger LOGGER = LogManager.getLogger(MOD_ID);
 
     int speed1 = 7;
     int speed1ё = 6;
@@ -24,27 +25,28 @@ public class AxeFunction {
     }
 
     public int speedAxe(ItemStack id) {
-        if (id.is(Items.WOODEN_AXE)) {
+        Item item = id.getItem();
+        if (item.equals(Items.STONE_AXE)) {
             return speed1;
         }
 
-        if (id.is(Items.STONE_AXE)) {
+        if (item.equals(Items.STONE_AXE)) {
             return speed1ё;
         }
 
-        if (id.is(Items.IRON_AXE)) {
+        if (item.equals(Items.IRON_AXE)) {
             return speed3;
         }
 
-        if (id.is(Items.GOLDEN_AXE)) {
+        if (item.equals(Items.GOLDEN_AXE)) {
             return speed3;
         }
 
-        if (id.is(Items.DIAMOND_AXE)) {
+        if (item.equals(Items.DIAMOND_AXE)) {
             return speed4;
         }
 
-        if (id.is(Items.NETHERITE_AXE)) {
+        if (item.equals(Items.NETHERITE_AXE)) {
             return speed4;
         }
 
