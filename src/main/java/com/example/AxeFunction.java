@@ -46,9 +46,7 @@ public class AxeFunction {
             return speed4;
         }
 
-        if (item.equals(Items.NETHERITE_AXE)) {
-            return speed4;
-        }
+
 
         return 10;
     }
